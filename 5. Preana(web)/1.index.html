@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<html lang = "ko">
+    <head>
+        <meta charset="UTF-8"> 
+        <meta name="Autor" content="SeoJeongWoo">
+        <meta name="Keyword" content="건담,한정판,프리미엄,rg,hg,mg,pg,프라모델,건프라">
+        <meta name="Decription" content="프레나 메인화면">
+        <style>
+
+
+@keyframes textColorAnimation {
+	0% { color : skyblue; }
+	20% { color : greenyellow; } 
+    40% {color: white;}
+	60% { color : red; }
+    80% {color : yellow;}
+	100% { color :  skyblue; }
+}
+
+#prena{
+    animation-name : textColorAnimation; 
+	animation-duration : 5s;
+	animation-iteration-count : infinite; 
+}
+
+html, body { margin: 0; padding: 0; height: 100%; }
+.header { width: 100%; height: 12%; 
+        background: black;
+         color: white; }
+.section { width: 15%; height: 80%; float: left; 
+		background:rgb(85, 85, 85); }
+.aside { width: 85%; height: 80%; float: left; 
+    background:rgb(85, 85, 85);
+}
+.footer { width: 100%; height: 8%; clear: both; 
+    background: black;}
+
+    .hddiv{ display: inline-block;}
+    .hdlink{color: gray; text-decoration: none;}
+    .hdlink:hover{color: pink; text-decoration: none;}
+        </style>
+        <title>
+            document
+        </title>
+
+        <script>
+
+function play() { 
+
+    var audio = document.getElementById('audio_play'); 
+    var button = document.getElementById('BTN'); 
+    var text = document.getElementById('bgm'); 
+    if (audio.paused && text.innerHTML=="BGM : 꺼짐")  { 
+        text.innerHTML="BGM : 기동전사 건담 UC OST";
+        button.innerHTML="BGM 끄기";
+        audio.play();
+    }else{ 
+
+        text.innerHTML="BGM : 꺼짐";
+        button.innerHTML="BGM 켜기";
+        audio.pause(); 
+        audio.currentTime = 0 
+    } 
+} 
+
+function stop() { 
+
+var audio = document.getElementById('audio_play'); 
+var button = document.getElementById('stopbtn'); 
+var text = document.getElementById('bgm'); 
+    text.innerHTML="BGM : 일시정지 중입니다";
+    audio.pause(); 
+
+} 
+
+function replay() { 
+
+var audio = document.getElementById('audio_play'); 
+var button = document.getElementById('stopbtn'); 
+var text = document.getElementById('bgm'); 
+
+if (audio.paused) { 
+    text.innerHTML="BGM : 기동전사 건담 UC OST";
+    audio.play();
+} 
+}
+
+        </script>
+
+    </head>
+    <body>
+        <header class="header">
+        <div>
+            <div class="hddiv" id="prena" style="width: 70% ;" ><h1 display: inline;>한정건프라 정보사이트 [프레나]</h1></div>
+            <div class="hddiv" style="width: 29%;text-align: right;">
+                I <a href="main.html" class="hdlink" target="window" onclick="parent.index.location.href='menu.html'">메인화면</a>  
+                I <a href="main-Glossary.html" class="hdlink" target="window" onclick="parent.index.location.href='menu-Glossary.html'"> 용어소개</a>  
+                I <a href="main-select.html" class="hdlink" target="window" onclick="parent.index.location.href='menu.html'"> 나에게 맞는 한정판</a> 
+               <!-- I <a href="gmain.html" class="hdlink" target="index"> 과제</a>  I-->
+            </div>
+            <div class="hddiv" style="width: 70%; color: greenyellow; "><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                Limited Edition Gundam Plastic Model review</strong></div>
+        </div>
+            
+            
+        </header>
+        <section class="section">
+            <iframe src="menu.html" name="index" width="100%" height="100%" scrolling="auto"></iframe>
+         </section>
+
+        <aside class="aside">
+            <iframe src="main.html"width="100%" name="window"height="100%" scrolling="auto">
+
+            </iframe>
+        </aside>
+        
+        <footer class="footer">
+            <br>
+
+            <audio id='audio_play' src="bgms/gundamUC ost.mp3" autoplay></audio> 
+
+            &nbsp; <span style="color: white;" id="bgm">BGM : 기동전사 건담 UC OST</span><br>
+
+            <button id="BTN" onclick="play()">BGM 끄기</button> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            <button id="stopbtn" onclick="replay()">BGM 재생</button>
+            <button id="stopbtn" onclick="stop()">BGM 일시정지</button>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ 
+
+           
+
+
+        </footer>
+        
+    </body>
+
+
+</html>
