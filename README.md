@@ -8,7 +8,7 @@
 |프로젝트 명|전선지휘|
 |------|---|
 |프로젝트 주소|https://github.com/Team24-NewAge/FrontLine|
-|소개 영상|https://youtu.be/h9TNRrmcwDk(10분)//https://youtu.be/SHcQa_yFBNI(1분)|
+|소개 영상|https://youtu.be/h9TNRrmcwDk(10분) // https://youtu.be/SHcQa_yFBNI(1분)|
 |개발 기간|2020.05 ~ 2020.12|
 |팀원|서정우(메인 프로그래머) 외 3명|
 |주요 구현 내용|메인 UI 구현과 상호작용,몬스터와 플레이어 스킬 구현, 전투시스템 개발, 유닛의 강화와 조합|
@@ -23,6 +23,15 @@
  - 8.UnitBuy_Popup | 유닛 구매 팝업에 사용되는 코드입니다
  - 9.Unit | 유닛 오브젝트에 내장되어있는 코드입니다
  - 10.Rebuild_Popup | 보강 기능에 사용되는 코드입니다
+
+<details>
+    <summary> 자세히 </summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+내용 추가 예정
+
+</details>
+
  --------------------------------------------------------
  # 2. RTD랜덤타워디펜스(Unity_C#)
 <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/ce207dd4-c148-49ec-97fd-936bf630093b" width="474" height="256"/>
