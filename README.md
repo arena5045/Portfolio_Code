@@ -1,4 +1,7 @@
 포트폴리오에 사용된 프로젝트들의 코드들을 모아놓은 깃입니다
+
+기능을 설명하는 대부분의 이미지는 gif로 로딩시간이 있을 수 있습니다. 
+
 --------------------------------------------------------
  # 1. 전선지휘(Unity_C#)
 ![전지](https://github.com/arena5045/Portfolio_Code/assets/64789660/a64d005e-b440-41a3-8897-4bf028d06fb1)
@@ -29,12 +32,12 @@
  
 <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/a5581bc6-e964-4d12-a769-b24cdeaa0d8d" width="474" height="256"/>
 
-메인 화면 ui 구현
+ㄴ메인 화면 ui 구현
 
  
 <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/02bf43dd-ad88-4bd6-8b37-b3bf86cceac0" width="474" height="256"/>
 
-전투 플레이 화면 
+ㄴ전투 플레이 화면 
 
 몬스터는 플레이어가 미리 배치해둔 유닛과 자동으로 전투를 하며
 플레이어는 영웅의 스킬을 조작할 수 있습니다
@@ -42,7 +45,7 @@
 
 <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/f0299113-a878-4807-89ce-b4faadecec30" width="474" height="256"/>
 
-이벤트와 보강기능 시연 장면
+ㄴ이벤트와 보강기능 시연 장면
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 </details>
@@ -112,6 +115,7 @@
 
 --------------------------------------------------------
  # 5. The Zombie(Unity_C#)
+  <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/d59361ec-acf7-41c8-88dc-94cdfb5becd7" width="474" height="256"/>
 
 |프로젝트 명|The Zombie|
 |------|---|
@@ -133,6 +137,15 @@
  - 9.PlayerHealth | 플레이어 체력에 관하여 사용되는 코드입니다
  - 10.UIManager | 점수, 탄창 등 UI를 관리하는 싱글턴 코드입니다
  - 11.Chatmanager | 멀티 중 채팅기능을 구현한 코드입니다
+
+ <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/84856728-b7c8-40a0-975e-f090cd8d1b7d" width="474" height="256"/>
+
+ ㄴ무기변경 시연 모습 1번무기와 2번무기는 laycast로 구현, 3번무기는 발사체 형식이며 4번무기는 유도미사일 형식입니다
+
+ <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/28125bf9-8254-4467-8939-3604c85f0649" width="474" height="256"/>
+ 
+ ㄴ채팅 시연 모습입니다
+
 --------------------------------------------------------
  # 6. Tank in White(Unity_C#)
  
