@@ -28,7 +28,7 @@
 
 |프로젝트 명|전선지휘|
 |------|---|
-|프로젝트 주소|https://github.com/Team24-NewAge/FrontLine|
+<!--|프로젝트 주소|https://github.com/Team24-NewAge/FrontLine|-->
 |소개 영상|https://youtu.be/h9TNRrmcwDk(10분) // https://youtu.be/SHcQa_yFBNI(1분)|
 |팀원|서정우(메인 프로그래머) 외 3명|
 |주요 구현 내용|메인 UI 구현과 상호작용,몬스터와 플레이어 스킬 구현, 전투시스템 개발, 유닛의 강화와 조합|
@@ -74,7 +74,7 @@
 
 |프로젝트 명|RTD랜덤타워디펜스|
 |------|---|
-|프로젝트 주소|https://github.com/Team-RTD/Project_RTD|
+<!--|프로젝트 주소|https://github.com/Team-RTD/Project_RTD|-->
 |소개 영상|https://youtu.be/Hw0U9L20Tqg|
 |팀원|서정우(팀장) 외 3명|
 |주요 구현 내용|메인 화면 ui 상호작용, 타워의 생성 판매 업그레이드,카메라 무브|
@@ -95,7 +95,7 @@
   
 |프로젝트 명|HnS핵앤슬래시|
 |------|---|
-|프로젝트 주소|https://github.com/Team-HnS/Project_HnS|
+<!--|프로젝트 주소|https://github.com/Team-HnS/Project_HnS|-->
 |소개 영상|https://youtu.be/XHCT59WcP9w|
 |팀원|서정우(팀장) 외 3명|
 |주요 구현 내용|플레이어 이동과 공격,스킬 등을 비롯한 FSM 구현, 유니티 navmeshagent 네비게이션 시스템 |
@@ -118,7 +118,7 @@
 
 |프로젝트 명|XRVR_MA|
 |------|---|
-|프로젝트 주소|https://github.com/Team-HnS/Project_HnS|
+<!--|프로젝트 주소|https://github.com/Team-HnS/Project_HnS|-->
 |소개 영상|-|
 |팀원|서정우 개인 작품|
 |주요 구현 내용|xr 기반 멀티플랫폼 Inputsystem사용, Vr 컨트롤러를 이용한 ui상호작용|
