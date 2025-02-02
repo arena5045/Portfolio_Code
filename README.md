@@ -27,10 +27,9 @@
 ![전지](https://github.com/arena5045/Portfolio_Code/assets/64789660/a64d005e-b440-41a3-8897-4bf028d06fb1)
    
 로그라이크 형식의 디펜스 게임입니다
-
+<!--|프로젝트 주소|https://github.com/Team24-NewAge/FrontLine|-->
 |프로젝트 명|전선지휘|
 |------|---|
-<!--|프로젝트 주소|https://github.com/Team24-NewAge/FrontLine|-->
 |소개 영상|https://youtu.be/h9TNRrmcwDk(10분) // https://youtu.be/SHcQa_yFBNI(1분)|
 |팀원|서정우(메인 프로그래머) 외 3명|
 |주요 구현 내용|메인 UI 구현과 상호작용,몬스터와 플레이어 스킬 구현, 전투시스템 개발, 유닛의 강화와 조합|
@@ -73,10 +72,9 @@
  --------------------------------------------------------
  # 2. RTD랜덤타워디펜스(Unity_C#)
 <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/ce207dd4-c148-49ec-97fd-936bf630093b" width="474" height="256"/>
-
+<!--|프로젝트 주소|https://github.com/Team-RTD/Project_RTD|-->
 |프로젝트 명|RTD랜덤타워디펜스|
 |------|---|
-<!--|프로젝트 주소|https://github.com/Team-RTD/Project_RTD|-->
 |소개 영상|https://youtu.be/Hw0U9L20Tqg|
 |팀원|서정우(팀장) 외 3명|
 |주요 구현 내용|메인 화면 ui 상호작용, 타워의 생성 판매 업그레이드,카메라 무브|
@@ -94,10 +92,9 @@
  ![핵슬](https://github.com/arena5045/Portfolio_Code/assets/64789660/b86db90b-3702-476b-8d6f-81e1731d0ceb)
  
   핵 앤 슬래시 장르를 기반으로 만든 액션 RPG 프로젝트입니다
-  
+  <!--|프로젝트 주소|https://github.com/Team-HnS/Project_HnS|-->
 |프로젝트 명|HnS핵앤슬래시|
 |------|---|
-<!--|프로젝트 주소|https://github.com/Team-HnS/Project_HnS|-->
 |소개 영상|https://youtu.be/XHCT59WcP9w|
 |팀원|서정우(팀장) 외 3명|
 |주요 구현 내용|플레이어 이동과 공격,스킬 등을 비롯한 FSM 구현, 유니티 navmeshagent 네비게이션 시스템 |
@@ -117,10 +114,9 @@
  <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/0850fd56-8725-4ddd-9794-0b9464b57694" width="474" height="256"/>
  
 괴리성 밀리언 아서 vr을 모티브로 만들어본 XR 기반 게임입니다
-
+<!--|프로젝트 주소|https://github.com/Team-HnS/Project_HnS|-->
 |프로젝트 명|XRVR_MA|
 |------|---|
-<!--|프로젝트 주소|https://github.com/Team-HnS/Project_HnS|-->
 |소개 영상|-|
 |팀원|서정우 개인 작품|
 |주요 구현 내용|xr 기반 멀티플랫폼 Inputsystem사용, Vr 컨트롤러를 이용한 ui상호작용|
