@@ -3,6 +3,7 @@
 기능을 설명하는 대부분의 이미지는 gif로 로딩시간이 있을 수 있습니다. 
 --------------------------------------------------------
  # 0. 라이클 프로젝트(Unity_C#)
+ <img src="https://github.com/user-attachments/assets/7e191eac-81af-43a9-8b77-0e47643dc6e5" width="474" height="256"/>
 ![GIF 2025-02-03 오전 6-00-30](https://github.com/user-attachments/assets/7e191eac-81af-43a9-8b77-0e47643dc6e5)
 
  
