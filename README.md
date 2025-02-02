@@ -4,8 +4,6 @@
 --------------------------------------------------------
  # 0. 라이클 프로젝트(Unity_C#)
  <img src="https://github.com/user-attachments/assets/7e191eac-81af-43a9-8b77-0e47643dc6e5" width="474" height="256"/>
-![GIF 2025-02-03 오전 6-00-30](https://github.com/user-attachments/assets/7e191eac-81af-43a9-8b77-0e47643dc6e5)
-
  
 |프로젝트 명|라이클 프로젝트|
 |------|---|
