@@ -115,12 +115,12 @@
 
  --------------------------------------------------------
   # 4. 마이 스위트 베이커리(Unity_C#)
-<img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/ce207dd4-c148-49ec-97fd-936bf630093b" width="474" height="256"/>
-
+<img src="https://github.com/user-attachments/assets/6abeeb58-0523-4509-9973-f28ee8c78ebc">
+<img src="[https://github.com/user-attachments/assets/6abeeb58-0523-4509-9973-f28ee8c78ebc](https://github.com/user-attachments/assets/5d40a3ee-9dc9-4f0b-94ea-0c74ca1896d2)">
 
 |프로젝트 명|마이 스위트 베이커리|
 |------|---|
-|소개 영상|https://youtu.be/Hw0U9L20Tqg|
+|소개 영상|https://youtube.com/shorts/eFJoVU6jcW4?feature=share|
 |팀원|서정우 개인 작품|
 |주요 구현 내용|조이스틱 ui 구현, 플레이어와 가구 상호작용, 손님 ai|
 <!--|개발 기간|2023.08 (약 3주)|-->
