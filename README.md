@@ -112,8 +112,8 @@
  - 5.SkillSet_Library | 스킬의 효과들을 저장해놓는 코드입니다
  - 6.SkillBuildSlot | 스킬을 꼈다 뺐다 하며 원하는 위치에 놓을수있는 스킬 슬롯 UI에 사용된 코드입니다
  - 7.KeyInputManager | 키를 누르면 SkillBuildSlot에있는 스킬데이터를 가져와 해당 데이터에있는 SkillSet_Library를 찾아서 실행시키는 코드입니다.
- - 
-![asdf](https://github.com/user-attachments/assets/3bddc46a-54a5-4e0f-99e4-eaa1524b5558)
+
+<img src="https://github.com/user-attachments/assets/3bddc46a-54a5-4e0f-99e4-eaa1524b5558" width="256" height="474"/>
 
 해당 프로젝트는 부트캠프 우수프로젝트로 유튜브 광고에 등재되었습니다
 
