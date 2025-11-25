@@ -9,14 +9,12 @@
 로그라이크, 디펜스, 액션 RPG, 멀티플레이, XR 등 여러 장르의 프로토타입을 Unity로 구현해 보며 개발 경험을 쌓고 있습니다.
 
 <p align="center">
-  <!-- 아래 src 경로를 실제 GIF/PNG 경로로 교체해서 사용 -->
   <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/02bf43dd-ad88-4bd6-8b37-b3bf86cceac0" width="474" height="256" alt="전선지휘 게임플레이"  />
   <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/b86db90b-3702-476b-8d6f-81e1731d0ceb"width="474" height="256"  alt="HnS 핵앤슬래시"  />
   <img src="https://github.com/user-attachments/assets/5df6df66-3b8f-4f92-8112-0eb830d0a99f" width="474" height="256" alt="라이클 재활 자전거 프로젝트"  />
 </p>
 
 - 📌 **목표 포지션**: Unity 클라이언트 / 게임플레이 프로그래머  
-- 🎮 **관심 장르**: 로그라이크, 디펜스, 코옵 PvE, 공포/생존, XR  
 - 📧 **E-mail**: `dnwjdtj10@naver.com`  
 - 🔗 **Notion 포트폴리오**: (개설 후 링크 추가 예정)  
 - 🐙 **GitHub**: https://github.com/arena5045/Portfolio_Code  
