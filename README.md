@@ -16,7 +16,6 @@
 
 - 📌 **목표 포지션**: Unity 클라이언트 / 게임플레이 프로그래머  
 - 📧 **E-mail**: `dnwjdtj10@naver.com`  
-- 🔗 **Notion 포트폴리오**: (개설 후 링크 추가 예정)  
 - 🐙 **GitHub**: https://github.com/arena5045/Portfolio_Code  
 
 ---
