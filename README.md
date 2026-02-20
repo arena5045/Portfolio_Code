@@ -227,7 +227,48 @@
 <img src="https://github.com/user-attachments/assets/3bddc46a-54a5-4e0f-99e4-eaa1524b5558" width="256" height="474"/>
 
 해당 프로젝트는 부트캠프 우수프로젝트로 유튜브 광고에 등재되었습니다
+ --------------------------------------------------------
+  # 4. 묵향귀무록(Unity_C#)
+ ![GIF 2026-02-21 오전 3-16-33](https://github.com/user-attachments/assets/7477a65d-7c95-4bb0-a9fa-a38673c11d03)
 
+ 바이브 코딩의 시대, AI의 도움을 받아 빠르게 진행한 텍스트 로그라이크 프로젝트입니다.
+
+ 모든 그래픽 요소는 에셋 사용없이 전부 AI로 출력하였으며(컷씬, UI, 스프라이트 등),
+ 소스코드 또한 원하는 바를 AI에게 1차로 요구 후에 자잘한 부분을 수정하는 방식으로 진행하였습니다.
+  <!--|프로젝트 주소|https://github.com/Team-HnS/Project_HnS|-->
+  
+|프로젝트 명|묵향귀무록|
+|------|---|
+|소개 영상|https://youtube.com/shorts/LF0lWc0P1nY|
+|팀원|서정우 개인 작품|
+|주요 구현 내용|조이스틱 ui 구현, 플레이어와 가구 상호작용, 손님 ai|
+<!--|개발 기간|2023.10 (약 3주)|-->
+
+ - 1.BattleManager | 전투로직을 관리하는 싱글턴 코드입니다. 
+ - 2.ShopManager | 인게임 상점에서 사용되는 코드입니다. 
+ - 3.DialogueManager | 이벤트 등에 사용되는 대사창을 구현한 코드입니다.
+ - 4.MapManager | 게임 시작 후, 맵을 관리하는 싱글턴입니다. 맵생성, UI와 연결, 자료구조에 저장 등을 담당하고 있습니다.
+ - 5.GridPathGenerator | 맵을 생성하는 코드로직입니다.
+
+ <details>
+  <summary> 작업과정&주요코드 자세히 보기 </summary> 
+<img width="474" height="256" alt="귀무록2" src="https://github.com/user-attachments/assets/e7a2b97a-7025-4b44-aee5-8232015dc909" />
+ AI와 함께 코드의 피드백을 주고받는 부분
+   
+<img width="474" height="256" alt="귀무록1" src="https://github.com/user-attachments/assets/610ef2fc-516a-4bb9-88cd-00fd1f2e1cea" />
+ 게임에서 사용될 유물 아이콘을 생성한 모습
+
+<img alt="image" src="https://github.com/user-attachments/assets/fdcba316-c987-4f54-b693-85640cfe9317" />
+ 코루틴을 이용한 자동 턴제 전투 구현
+
+<img alt="image" src="https://github.com/user-attachments/assets/a3960079-1c9f-4698-99a0-e0e9986ecc42" />
+ 상점에서 랜덤 유물 COUNT개를 뽑을때 사용하는 코드
+<img alt="image" src="https://github.com/user-attachments/assets/621cd9fa-26e7-47f5-a77d-8e3bf521bcd7" />
+
+  이벤트 데이터가 가지고있는 내용을 UI화면에 있는 버튼에 할당시켜주는 코드
+
+  </details>
+ 
  --------------------------------------------------------
   # 4. 마이 스위트 베이커리(Unity_C#)
 <img src="https://github.com/user-attachments/assets/6abeeb58-0523-4509-9973-f28ee8c78ebc">
