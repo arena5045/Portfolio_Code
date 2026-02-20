@@ -25,6 +25,7 @@
 **Engine & Language**
 - Unity (2D/3D)
 - C#
+- Vibe coding
 
 **Gameplay / System**
 - 로그라이크 디펜스, 핵앤슬래시, 타워 디펜스
@@ -41,6 +42,7 @@
 - XR Interaction / Input System  
 - Unity UI / Canvas, 모바일 조작(UI 조이스틱, 버튼)  
 - Java(Android 간단 앱), JavaScript/HTML 간단 웹
+- AI를 활용하여 생산성을 높이는 바이브코딩 가능
 
 ---
 
