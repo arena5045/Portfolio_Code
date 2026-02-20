@@ -227,6 +227,7 @@
 <img src="https://github.com/user-attachments/assets/3bddc46a-54a5-4e0f-99e4-eaa1524b5558" width="256" height="474"/>
 
 해당 프로젝트는 부트캠프 우수프로젝트로 유튜브 광고에 등재되었습니다
+
  --------------------------------------------------------
   # 4. 묵향귀무록(Unity_C#)
  ![GIF 2026-02-21 오전 3-16-33](https://github.com/user-attachments/assets/7477a65d-7c95-4bb0-a9fa-a38673c11d03)
@@ -275,7 +276,7 @@
   </details>
  
  --------------------------------------------------------
-  # 4. 마이 스위트 베이커리(Unity_C#)
+  # 5. 마이 스위트 베이커리(Unity_C#)
 <img src="https://github.com/user-attachments/assets/6abeeb58-0523-4509-9973-f28ee8c78ebc">
 <img src="https://github.com/user-attachments/assets/5d40a3ee-9dc9-4f0b-94ea-0c74ca1896d2">
 
@@ -304,7 +305,7 @@
  - 9.UnLock_Zone | 돈을 사용해 해금할수있는 해금 존 코드입니다
  --------------------------------------------------------
  
- # 5.  XRVR_MA(Unity_C#)
+ # 6.  XRVR_MA(Unity_C#)
  <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/0850fd56-8725-4ddd-9794-0b9464b57694" width="474" height="256"/>
  
 괴리성 밀리언 아서 vr을 모티브로 만들어본 XR 기반 게임입니다
@@ -324,7 +325,7 @@
  - 4.Monster | 몬스터 데이터와, 데미지 등 처리를 담당하는 코드입니다
 
 --------------------------------------------------------
- # 6. The Zombie(Unity_C#)
+ # 7. The Zombie(Unity_C#)
   <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/d59361ec-acf7-41c8-88dc-94cdfb5becd7" width="474" height="256"/>
 
 맵에스폰되는 좀비를 잡으며 생존하는 스테이지형식의 탑뷰 멀티플레이(Photon) 기능을 포함하는 미니게임입니다
@@ -356,7 +357,7 @@
  ㄴ채팅 시연 모습입니다
 
 --------------------------------------------------------
- # 7. Tank in White(Unity_C#)
+ # 8. Tank in White(Unity_C#)
  
  <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/54304bf4-8451-45aa-9434-a472a0399099" width="474" height="256"/>
 
@@ -379,7 +380,7 @@
  - 8.TurretCtrl |  터렛을 마우스 클릭 지점을 따라 보게하는 코드입니다
  - 9.UIManager |  화면에 UI를 관리하는 싱글턴 코드입니다
 --------------------------------------------------------
- # 8. TCGGAME(Unity_C#)
+ # 9. TCGGAME(Unity_C#)
 
  <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/80cc9c87-26dc-4bcf-b2e7-9bef91c83780" width="474" height="256"/>
 
@@ -398,7 +399,7 @@
  - 2.EnemyAiManager |  상대방 턴에 적의 행동을 간단하게 구현한 AI코드입니다
 
 --------------------------------------------------------
- # 9.Photon Tank(Unity_C#)
+ # 10.Photon Tank(Unity_C#)
   <img src="https://github.com/arena5045/Portfolio_Code/assets/64789660/d2da3575-5f4b-477c-a31d-f9f50c2ecafe" width="474" height="256"/>
 
   UNITY와 Photon을 사용하여 만든 멀티플레이 테스트 게임입니다
@@ -415,7 +416,7 @@
  - 4.TurretCtrl |  포톤뷰를 이용하여 포신을 회전하는 코드입니다
 
 --------------------------------------------------------
- # 10. Prena(app_Java)
+ # 11. Prena(app_Java)
 
 자바를 이용하여 만든 프라모델 정보 어플리케이션입니다
 
