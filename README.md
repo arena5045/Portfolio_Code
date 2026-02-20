@@ -247,18 +247,17 @@
  - 1.BattleManager | 전투로직을 관리하는 싱글턴 코드입니다. 
  - 2.ShopManager | 인게임 상점에서 사용되는 코드입니다. 
  - 3.DialogueManager | 이벤트 등에 사용되는 대사창을 구현한 코드입니다.
- - 4.MapManager | 게임 시작 후, 맵을 관리하는 싱글턴입니다. 맵생성, UI와 연결,
-   자료구조에 저장 등을 담당하고 있습니다.
+ - 4.MapManager | 맵을 관리하는 싱글턴입니다. 맵생성, UI와 연결,자료구조 저장 등을 담당하고 있습니다.
  - 5.GridPathGenerator | 맵을 생성하는 코드로직입니다.
 
  <details>
   <summary> 작업과정&주요코드 자세히 보기 </summary> 
    
-<img width="474" height="256" alt="귀무록2" src="https://github.com/user-attachments/assets/e7a2b97a-7025-4b44-aee5-8232015dc909" />
+<img alt="귀무록2" src="https://github.com/user-attachments/assets/e7a2b97a-7025-4b44-aee5-8232015dc909" />
    
  AI와 함께 코드의 피드백을 주고받는 부분
    
-<img width="474" height="256" alt="귀무록1" src="https://github.com/user-attachments/assets/610ef2fc-516a-4bb9-88cd-00fd1f2e1cea" />
+<img alt="귀무록1" src="https://github.com/user-attachments/assets/610ef2fc-516a-4bb9-88cd-00fd1f2e1cea" />
 
  게임에서 사용될 유물 아이콘을 생성한 모습
 
