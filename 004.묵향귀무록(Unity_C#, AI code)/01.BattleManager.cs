@@ -323,8 +323,8 @@ public class BattleManager : MonoBehaviour
 
     public void RunBtn()
     {
-        float negovalue = Random.Range(0f, 100f);
-        if (negovalue <= currentMonsterInfo.nego_pro)
+        float runValue = Random.Range(0f, 100f);
+        if (runValue <= currentMonsterInfo.run_pro)
         {
             buiManager.AddLog($"");
             buiManager.AddLog($"");
