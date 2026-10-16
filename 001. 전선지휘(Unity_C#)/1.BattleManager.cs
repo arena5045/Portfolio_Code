@@ -108,7 +108,7 @@ public class BattleManager : MonoBehaviour
         int damage;//초기 데미지 0
 
         damage = unit.atk;//유닛의 공격력
-        damage = (damage /((100 + monster.def)/100));//몬스터 방어력 계산
+        damage = (damage /((100 + monster.def)/100f));//몬스터 방어력 계산
 
 
         //격노 스탯의 존재 | 존재할경우 데미지 1.5배
@@ -148,7 +148,7 @@ public class BattleManager : MonoBehaviour
         int damage;//초기 데미지 0
 
         damage = Mathf.FloorToInt(unit.atk * coefficient);//유닛의 공격력
-        damage = (damage / ((100 + monster.def) / 100));//몬스터 방어력 계산
+        damage = (damage / ((100 + monster.def) / 100f));//몬스터 방어력 계산
 
         if (BarManager.Instance.pray_code == 1)
         {
