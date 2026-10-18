@@ -148,7 +148,7 @@ public class BattleManager : MonoBehaviour
         int damage;//초기 데미지 0
 
         damage = Mathf.FloorToInt(unit.atk * coefficient);//유닛의 공격력
-        damage = (damage / ((100 + monster.def) / 100f));//몬스터 방어력 계산
+        damage = Mathf.FloorToInt(damage / (1f + monster.def / 100f));
 
         if (BarManager.Instance.pray_code == 1)
         {
