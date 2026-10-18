@@ -780,7 +780,8 @@ public class CheckingInvenManager : MonoBehaviour
             int unit_maxhp = reinforceUDID.maxHp + UnityEngine.Random.Range(0, 21);
             int unit_hp = unit_maxhp;
             int unit_def = reinforceUDID.def + UnityEngine.Random.Range(0, 21); ;
-            int unit_atkspd = reinforceUDID.atkSp - (UnityEngine.Random.Range(0, 2)*10f); ;
+            int unit_atkspd =
+                reinforceUDID.atkSp - UnityEngine.Random.Range(0, 2) * 10;
 
             //////////////////////////////////////////////////////////////////////////////
             PlayerPrefs.SetInt("unit_" + name + "_hp_" + count, unit_hp);
